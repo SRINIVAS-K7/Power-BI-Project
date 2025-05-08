@@ -1,5 +1,4 @@
 # Power-BI-Project
-Customer Churn Analysis Dashboard
 
 
 # Customer Churn Analysis Dashboard (Power BI Project)
