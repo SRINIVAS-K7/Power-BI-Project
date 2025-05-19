@@ -20,7 +20,7 @@ The bank was losing 16% of its customer base annually, impacting revenue and gro
 - Churn Rate: ~16%
 - Churned vs Active: Visual breakdown of current vs churned customers
 
-  -------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 ### 2. Demographic Insights
 - Age-wise Churn: Higher churn in customers aged 45–60
