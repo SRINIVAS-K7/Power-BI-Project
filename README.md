@@ -12,20 +12,22 @@ Business Problem:
 
 The bank was losing 16% of its customer base annually, impacting revenue and growth. My goal was to isolate patterns by age, income, card usage, and tenure.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📊 Dashboard Highlights
-
+## Dashboard Highlights
 ### 1. Customer Churn Overview
 - Total Customers: 10,000+
 - Churn Rate: ~16%
 - Churned vs Active: Visual breakdown of current vs churned customers
+
+  -------------------------------------------------------------------------
 
 ### 2. Demographic Insights
 - Age-wise Churn: Higher churn in customers aged 45–60
 - Gender-based Analysis: Slightly higher churn rate among female customers
 - Tenure Analysis: Majority of churn happens in first 6 months
 
+---------------------------------------------------------------------------
 
 ### KPIs
 - Total Customers: 10,127
@@ -33,6 +35,7 @@ The bank was losing 16% of its customer base annually, impacting revenue and gro
 - Churn Rate: 16%
 - Average Balance: $8,500
 
+---------------------------------------------------------------------------
 
 ### Key Visuals
 - Churn by Gender, Education, Card Type
@@ -40,16 +43,16 @@ The bank was losing 16% of its customer base annually, impacting revenue and gro
 - Pie Chart: Customer Distribution
 - Bar Chart: Churn customers by Credit card type
 
----
+---------------------------------------------------------------------------
 
-##  Key Business Questions Answered
-
+## Key Business Questions Answered
 - What is the overall churn rate?
 - Which customer segments have the highest churn?
 - Which actions could reduce churn and increase retention?
 
-##  Key Insights
+---------------------------------------------------------------------------
 
+##  Key Insights
 - Churn Rate is ~16%
 - Customers aged 45–60 show highest churn risk
 - Attrition highest in low-income and single customers
@@ -57,23 +60,21 @@ The bank was losing 16% of its customer base annually, impacting revenue and gro
 - Churn spikes in customers with <12 months tenure
 - Customers with low transaction volume are more likely to churn 
 
----
+--------------------------------------------------------------------------
 
-##  Tools Used
-
+## Tools Used
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Power Query for Data Cleaning
 - Interactive Visuals: Bar charts, pie charts, slicers, KPIs etc
 
----
+-------------------------------------------------------------------------
 
-##  Skills Demonstrated
-
+## Skills Demonstrated
 - Data Cleaning & Shaping using Power Query
 - DAX Measures (Churn %, Retention rate, Average monthly spend)
 - Dashboard Design & UX for Executive Reporting
 - Data Storytelling with actionable business insights
 
----
+------------------------------------------------------------------------
 
